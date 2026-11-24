@@ -4,3 +4,6 @@ Desenvolvido por Laura Knoll Garcia de Oliveira e Vitor Ribeiro Gomes.
 SO : Windows 11.
 Compilador : GCC 13.1.0 MinGW (64 bit).
 Biblioteca Gráfica : SFML versão 2.6.1 GCC 13.1.0 minGW (SEH) - (64 bit).
+
+![img1.png](img1.png) 
+![img2.png](img2.png) 
